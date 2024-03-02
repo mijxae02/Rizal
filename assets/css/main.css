@@ -81,7 +81,7 @@ h6 {
   width: 120px;
   height: 1px;
   display: inline-block;
-  background: #5bd9a9;
+  background: #703800;
   margin: 4px 10px;
 }
 
@@ -614,7 +614,7 @@ h6 {
 # Testimonials Section
 --------------------------------------------------------------*/
 .testimonials {
-  margin-top: 80px;
+  margin-top: 0px;
 }
 
 .testimonials .testimonial-item {
@@ -639,9 +639,9 @@ h6 {
 }
 
 .testimonials .testimonial-item .testimonial-img {
-  width: 90px;
-  border-radius: 50%;
-  border: 5px solid #474a4d;
+  width: 200px;
+  border-radius: 0%;
+  border: 3px solid #474a4d;
   margin: 0 auto;
 }
 
